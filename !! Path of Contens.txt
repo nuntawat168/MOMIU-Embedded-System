@@ -1,0 +1,27 @@
+
+[MOMIU ROBOT PROJECT - RELEASED FILES CIRCUIT]
+
+1. Gerber file...........Main Board      Path:\1 - PCB Manufacturing\Gerber Output\1-MAIN-BOARD
+                         Interface Board Path:\1 - PCB Manufacturing\Gerber Output\2-INTERFACE-BOARD
+
+2. NC Drill file.........Main Board      Path:\1 - PCB Manufacturing\NC Drill Output\1-MAIN-BOARD
+   (.DRR .LDP            Interface Board Path:\1 - PCB Manufacturing\NC Drill Output\2-INTERFACE-BOARD
+    .TXT .PDF)
+3. Mechanical Drawing....Main Board      Path:\2 - Board Assembly\1-MAIN-BOARD
+   (.PDF)                Interface Board Path:\2 - Board Assembly\2-INTERFACE-BOARD
+
+
+4. BOM Purchase..........................Path:\2 - Board Assembly\2 - Board Assembly
+   (Excel.xlxs)
+
+5. Source code of mcu no.2...............Path:\3 - Firmware\momiu_mcu_no2
+
+
+6. 3D Model..............................Path:\4 - 3D
+   (.STEP .PDF)
+
+7. Schmatic..............................Path:\5 - Schematic
+   (.PDF)
+
+8. Source File...........................Path:\6 - Source Files
+   (All Altium Projeect files .zip)
