@@ -1,0 +1,16 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 11:25:22 AM On 5/8/2021
+
+Output: NC Drill Files-PCB-INTERFACE-BOARD-MOMIU
+Type  : NC Drill
+From  : PCB Document [PCB_INTERFACE-BOARD-MOMIU.PcbDoc]
+   Generated File[PCB_INTERFACE-BOARD-MOMIU.TXT]
+   Generated File[PCB_INTERFACE-BOARD-MOMIU.LDP]
+   Generated File[PCB_INTERFACE-BOARD-MOMIU.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 11:25:22 AM On 5/8/2021
